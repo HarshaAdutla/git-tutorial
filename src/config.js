@@ -1,3 +1,3 @@
 console.log("config.js")
 console.log("Version 2")
-console.log("Version 2 New Changes")
+console.log("Git tutorial New Version")
